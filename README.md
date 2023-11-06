@@ -104,6 +104,28 @@ Consistency: Apple is known for consistent product quality and messaging. We'll 
 
 #
 
+### GATHERING DATA
+
+Data should be gathered by collecting information to understand what people think about a brand's characteristics. 
+
+This involves:
+
+- Creating surveys and other tools to ask people about the brand.
+
+- Talking to customers and experts to get their opinions.
+
+- Looking at comments and ratings people give about the brand.
+
+- Comparing the brand to others to see where it stands.
+
+- Include a wide range of people to avoid bias.
+
+- Putting all the information together to analyze it.
+
+Gathering data is essential for creating a rating that truly reflects how people view the brand's trustworthiness, quality, and other attributes.
+
+#
+
 ### COPYRIGHT
 
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
