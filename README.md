@@ -20,6 +20,8 @@ Heuristic rules are simplified guidelines or principles used to solve problems o
 
 The "overall_rating" is the average of all the ratings provided.
 
+#
+
 Attribute Scale:
 
 The attribute scale is a set of criteria used to evaluate various aspects of a brand's performance or perception in the marketplace, such as trust, quality, reliability, customer service, and so on.
@@ -73,6 +75,8 @@ Consistency: Measures how consistent the brand is in its messaging, product/serv
 
 1: Very inconsistent; brand frequently changes and is unpredictable.
 10: Highly consistent; brand delivers a uniform experience across all touchpoints.
+
+#
 
 Example:
 
