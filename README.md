@@ -102,6 +102,8 @@ Brand Image: The description suggests a strong, positive reputation. We'll give 
 
 Consistency: Apple is known for consistent product quality and messaging. We'll score this at 9.
 
+#
+
 ### COPYRIGHT
 
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
