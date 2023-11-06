@@ -2,7 +2,7 @@
 
 # 📈 Rating and comparing global business brand attributes for superiority.
 
-# ChatGPT provided generalized brand attribute rating based on global presence, market reputation, and known innovation practices up to it's last update in April 2023.
+# ChatGPT provided generalized brand attribute ratings based on global presence, market reputation, and known innovation practices up to it's last update in April 2023.
 
 # Copyright (C) 2023, Sourceduty - All Rights Reserved.
 # THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
