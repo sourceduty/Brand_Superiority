@@ -22,7 +22,7 @@ The "overall_rating" is the average of all the ratings provided.
 
 #
 
-### Attribute Scale
+### ATTRIBUTE SCALE
 
 The attribute scale is a set of criteria used to evaluate various aspects of a brand's performance or perception in the marketplace, such as trust, quality, reliability, customer service, and so on.
 
@@ -78,7 +78,7 @@ Consistency: Measures how consistent the brand is in its messaging, product/serv
 
 #
 
-### Rating Example
+### RATING EXAMPLE
 
 Rating Apple based on the brand's description and the attribute scale.
 
