@@ -1,4 +1,4 @@
-# Brand_Superiority
+# Brand_Superiority V1.0
 
 # 📈 Rating and comparing global business brand attributes for superiority.
 
