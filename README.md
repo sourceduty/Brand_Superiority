@@ -8,6 +8,8 @@
 
 Designed to compare brands using several attributes such as trustworthiness, relevance, innovation, uniqueness, convenience, and overall rating. Users select two brands from dropdown menus and press a button to see a comparison report that includes a side-by-side evaluation of the attributes and descriptions of each brand. The application also highlights which brand has a superior overall rating. The interface is organized with frames, labels, comboboxes, and a text display area, and it is structured to handle user interactions effectively, providing a clear and informative comparison of the selected brands.
 
+#
+
 ![Brand_Superiority_Card](https://github.com/sourceduty/Brand_Superiority/assets/123030236/a0e80807-956b-406a-b959-265dc3f77f6d)
 
 ### RATINGS
